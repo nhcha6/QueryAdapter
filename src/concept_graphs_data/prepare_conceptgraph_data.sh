@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# !! Update for your download paths of CG and Scannet
+# UPDATE YOUR DIRECTORIES FOR CONCEPTGRAPH AND SCANNET HERE!
 export GSA_PATH=/home/nicolas/Documents/ConceptGraphClustering/Grounded-Segment-Anything
 export SCANNET_ROOT=/home/nicolas/hpc-home/Datasets/scannetpp/data_download/complete_dataset/
 export CG_FOLDER=/home/nicolas/Documents/ConceptGraphClustering/concept-graphs

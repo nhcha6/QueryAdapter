@@ -9,7 +9,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/nicolas/miniforge3/lib/
 
 # UPDATE YOUR DIRECTORY HERE!
 # folder = '/path/to/output/img_topk_ueo_segments_medium_256_0'
-folder='/home/nicolas/Documents/QueryAdapter/output/img_topk_ueo_segments_medium_256_0'
+folder='/home/nicolas/Documents/QueryAdapter/output/img_topk_ueo_segments_medium_256_3'
 method='segments'
 model='epoch50'
 # split folder name at _ and get the last element (should always be the number of core classes to assess)

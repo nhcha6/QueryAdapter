@@ -1,4 +1,3 @@
-
 # UPDATE YOUR DIRECTORIES FOR CONCEPTGRAPH AND SCANNET HERE!
 export GSA_PATH=/home/nicolas/Documents/ConceptGraphClustering/Grounded-Segment-Anything
 export SCANNET_ROOT=/home/nicolas/hpc-home/Datasets/scannetpp/data_download/complete_dataset/
@@ -11,7 +10,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/nicolas/miniforge3/lib/
 
 SCENE_NAME=0a7cc12c0e
 
-python generate_segment_data.py \
+python preprocess_segments.py \
     dataset_root=$SCANNET_ROOT \
     dataset_config=$SCANNET_CONFIG_PATH \
     stride=5 \
@@ -30,5 +29,5 @@ python generate_segment_data.py \
     merge_visual_sim_thresh=0.8 \
     merge_text_sim_thresh=0.8 \
     +object_method=segments \
-    +split=train \
+    +split=val \
     # +checkpoint_path=../../ckpt/11_Continual_Learning/cont_thresh_0.32/best.pth  
