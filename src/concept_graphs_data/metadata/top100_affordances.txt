@@ -1,0 +1,100 @@
+object used for dividing rooms
+object used for supporting the roof of a building
+object used for walking on
+object used for eating food and working at
+object used for entering and exiting a room
+object used for lighting up a room
+object used for storing household items
+object used for blocking the light from a window
+object used for blocking the light from a window
+object used for sitting down on
+object used for storing household items
+object used for sitting down on
+object used for displaying books
+object used for drawing on during a discussion
+object used for letting in natural light and providing a view
+object used for storing things while moving house
+object used for supporting a window
+object used for viewing digital information
+object used for displaying household items
+object used for supporting a door
+object used for moving water around the house
+object used for warming a room
+object used for storing kitchen utensils and dishes
+object used for relaxing in the living room
+object used for holding potted plants
+object used for sleeping at night
+object used for stopping water spraying on the bathroom floor
+object used for disposing of rubbish
+object used for reading a story
+object used for keeping alive
+object used for keeping warm on the couch
+object used for watching movies and tv
+object used for storing computer components
+object used for preparing dinner on
+object used for keeping food and drinks fresh
+object used for keeping warm when I go for a walk
+object used for hiding electrical wiring
+object used for washing dishes and hands
+object used for carrying personal belongings
+object used for decorating my apartment with art
+object used for resting my head on my bed
+object used for drying the body after a bath or shower
+object used for carrying personal belongings while traveling
+object used for carrying personal belongings on my back
+object used for storing and organizing items
+object used for typing
+object used for holding dishes or utensils
+object used for relieving myself
+object used for drawing a picture
+object used for printing documents and images
+object used for decorating my bedroom wall
+object used for decorating my lounge room with art
+object used for reheating food
+object used for chopping up food
+object used for protecting my feet when I walk
+object used for plugging in my phone charger
+object used for storing liquids
+object used for carrying water outside
+object used for making the couch more comfortable
+object used for carrying or storing things
+object used for storing shoes
+object used for calling my friend
+object used for storing and organizing papers
+object used for wiping down the bench
+object used for hanging up a blind
+object used for working from the couch
+object used for holding and displaying plants
+object used for ventilating indoor spaces
+object used for having a glass of water
+object used for hanging coats
+object used for turning on the lights
+object used for playing music out loud
+object used for providing light while I work
+object used for circulating air
+object used for hanging clothes
+object used for boiling water
+object used for detecting smoke
+object used for storing things
+object used for powering multiple devices
+object used for keeping my feet waRM
+object used for carrying groceries or other small items
+object used for clicking things on the computer
+object used for cutting up food for dinner
+object used for wiping after going to the toilet
+object used for drying hands and wiping up spills
+object used for cooking a lot of food
+object used for keeping time
+object used for frying some food
+object used for turning on and off water supply
+object used for storing food or other small items
+object used for getting soap
+object used for holding and organizing papers and documents
+object used for eating cereal
+object used for holding and dispensing tissues
+object used for cleaning a whiteboard
+object used for cleaning the toilet
+object used for spraying cleaning liquid
+object used for listening to music quietly
+object used for holding papers together
+object used for writing on a whiteboard

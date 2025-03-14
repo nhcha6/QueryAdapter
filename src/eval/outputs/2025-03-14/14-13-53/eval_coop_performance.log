@@ -1,0 +1,2 @@
+[2025-03-14 14:13:53,241][root][INFO] - Loaded ViT-H-14 model config.
+[2025-03-14 14:13:58,986][root][INFO] - Loading pretrained ViT-H-14 weights (laion2b_s32b_b79k).
