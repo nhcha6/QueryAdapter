@@ -19,10 +19,11 @@ from time import gmtime, strftime
 import open_clip
 import clip
 
-dataset = 'scannetpp' # coco or flickr
+# UPDATE YOUR DIRECTORY HERE!
+dataset = 'scannetpp' 
+# data_dir = ospj('path/to/scannet/', dataset)
+data_dir = ospj('/home/nicolas/hpc-home/Datasets/', dataset)
 
-# !! Input dataset location
-data_dir = ospj('/home/nicolas/hpc-home/Datasets/', dataset) # e.g. ospj(expanduser('~'), 'Documents', 'jm', 'data', dataset)
 n_core_concepts = 0
 lr = 0.5e-3
 batch_size = 256
