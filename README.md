@@ -1,6 +1,9 @@
 # QueryAdapter
 Official repository for the paper [QueryAdapter: Rapid Adaptation of Vision-Language Models in Response to Natural Language Queries](https://arxiv.org/pdf/2502.18735).
+
 This repository provides a simple example of how to run and evaluate QueryAdapter on the Scannet++ dataset.
+
+We also include [supplementary material](supplementary_material.pdf) providing additional details of the experiments in the original paper.
 
 ## Dataset and Environment Set-up
 1. Download [Scannet++](https://github.com/scannetpp/scannetpp)
