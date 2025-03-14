@@ -14,7 +14,7 @@ This repository provides a simple example of how to run and evaluate QueryAdapte
 ```
 cd src/concept_graphs_data/
 ```
-4. Update the download paths for ConceptGraphs and Scannet++ in the files prepare_concept_graphs_data.sh, generate_segment_data.sh and preprocess_segments.sh
+4. Update the download paths for ConceptGraphs and Scannet++ in the files *prepare_concept_graphs_data.sh*, *generate_segment_data.sh* and *preprocess_segments.sh*
 5. Run ConceptGraphs on the Scannet++ data:
 ```
 bash prepare_conceptgraph_data.sh
@@ -32,8 +32,8 @@ bash preprocess_segments.sh
 ```
 cd src/training/
 ```
-2. Update the Scannet++ filepath in the file finetune_coop.py to match your file system
-3. Run the training script to adapt the pre-trained model towards a small set of classes present in Scannet++ dataset. Model checkpoints will be saved in the 'output' folder.
+2. Update the Scannet++ filepath in the file *finetune_coop.py* to match your file system
+3. Run the training script to adapt the pre-trained model towards a small set of classes present in Scannet++ dataset. Model checkpoints will be saved in the *output* folder.
 ```
 python finetune_coop.py
 ```
@@ -43,7 +43,7 @@ python finetune_coop.py
 ```
 cd src/eval/
 ```
-2. Update the dirctory of the output folder in eval_coop_performance.sh to match your file system
+2. Update the dirctory of the output folder in *eval_coop_performance.sh* to match your file system
 3. Run the evaluation script to produce a CSV file of the result:
 ```
 bash eval_coop_performance.sh
